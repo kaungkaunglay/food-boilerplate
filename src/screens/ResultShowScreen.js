@@ -31,7 +31,7 @@ const ResultShowScreen = ({navigation}) => {
         }}
     />
     <Text style={styles.title}>{result.name}</Text>
-   
+        
   </View>
 }
 const styles = StyleSheet.create({
